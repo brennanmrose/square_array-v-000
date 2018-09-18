@@ -4,7 +4,7 @@
 def square_array(numbers)
   numbers = [1,2,3]
   numbers.each do |number|
-    new_number = number**
+  number**
 end
 
 # brothers = ["Tim", "Tom", "Jim"]
