@@ -1,5 +1,5 @@
 def square_array(array)
-  numbers = []
-  array.each { |number| numbers << number ** 2 }
+  new_array = []
+  array.each { |index| new_array << index ** 2 }
   numbers
 end
