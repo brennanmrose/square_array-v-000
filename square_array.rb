@@ -1,11 +1,11 @@
 # def square_array(array)
 # end
 
-def square_array(numbers)
-  numbers = [1,2,3]
-  numbers.each do |number|
-  number**
-end
+# def square_array(numbers)
+#   numbers = [1,2,3]
+#   numbers.each do |number|
+#   number**
+# end
 
 # brothers = ["Tim", "Tom", "Jim"]
 # counter = 1
